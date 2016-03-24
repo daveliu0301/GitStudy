@@ -10,4 +10,8 @@ input words in handsome branch
 fixed issue-101
 do some work in dev branch
 GitStudy: input some words
+Gitstudy2 directory: input some words
+GitStudy pull ande merge GitStudy2 files
+input words, test git push
+test git push after use git push -u origin master
 set up push.default, test git push
