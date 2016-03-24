@@ -13,3 +13,4 @@ GitStudy: input some words
 Gitstudy2 directory: input some words
 GitStudy pull ande merge GitStudy2 files
 input words, test git push
+test git push after use git push -u origin master
